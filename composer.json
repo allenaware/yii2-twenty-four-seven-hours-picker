@@ -1,0 +1,21 @@
+{
+    "name": "allenaware/yii2-twenty-four-seven-hours-picker",
+    "description": "A 24/7 hours picker  ",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","twenty"," four","seven","24/7","picker"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "allencui",
+            "email": "allenaware@163.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "allenaware\\twentyfourseven\\": ""
+        }
+    }
+}
