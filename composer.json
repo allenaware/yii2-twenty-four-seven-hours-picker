@@ -1,5 +1,6 @@
 {
     "name": "allenaware/yii2-twenty-four-seven-hours-picker",
+    "version":"1.0.2",
     "description": "A 24/7 hours picker  ",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","twenty"," four","seven","time slot"],
@@ -11,7 +12,7 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": "~2.0.6"
+        "yiisoft/yii2": ">=2.0.6"
     },
     "repositories":[
         {
