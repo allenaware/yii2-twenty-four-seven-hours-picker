@@ -1,26 +1,26 @@
-      .twentyfour td,.twentyfour th{
+      .twentyfourseven td,.twentyfourseven th{
         text-align:center;width:25px;height:25px;
 
       white-space:nowrap;cursor:pointer}
-      .twentyfour td.active{
+      .twentyfourseven td.active{
                background-color: #357ebd;
                border-color: #3071a9;
                color: #fff;
  
       }
-      .twentyfour td.day  {
+      .twentyfourseven td.day  {
                background-color: #357ebd;
                border-color: #3071a9;
                color: #fff;
                font-size:10px;
       }
-      .twentyfour th.hourheader {
+      .twentyfourseven th.hourheader {
                background-color: #357ebd;
                border-color: #3071a9;
                color: #fff;
                font-size:10px;
       }
-      .twentyfour th.total {
+      .twentyfourseven th.total {
                background-color: #357ebd;
                border-color: #3071a9;
                color: #fff;
@@ -28,5 +28,5 @@
       }
      
      
-      .twentyfour table{
+      .twentyfourseven table{
       }

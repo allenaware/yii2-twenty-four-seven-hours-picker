@@ -7,11 +7,11 @@ use yii\web\AssetBundle;
 
         public $sourcePath = '@vendor/allenaware/yii2-twenty-four-seven-hours-picker/assets';
         public $css = [
-            'css/main.css',
+            'css/twentyfourseven.css',
         ];
 
         public $js = [
-            'js/main.js',
+            'js/twentyfourseven.js',
         ];
 
         public $depends = [
