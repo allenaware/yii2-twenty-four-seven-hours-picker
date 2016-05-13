@@ -10,7 +10,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist allenaware/yii2-twenty-four-seven-hours-picker "dev-master"
+composer require  -vvv  --prefer-dist allenaware/yii2-twenty-four-seven-hours-picker "1.0.3"
 ```
 
 or add
